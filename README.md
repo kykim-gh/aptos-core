@@ -12,19 +12,18 @@
 [![Automated Issues](https://img.shields.io/github/issues-search?color=orange&label=Automated%20Issues&query=repo%3Aaptos%2Faptos%20is%3Aopen%20author%3Aapp%2Fgithub-actions)](https://github.com/aptos-labs/aptos-core/issues/created_by/app/github-actions)
 [![Discord chat](https://img.shields.io/discord/945856774056083548?style=flat-square)](https://discord.gg/aptoslabs)
 
+## Main info in Korean
 
-Aptos-core strives towards being the safest and most scalable layer one blockchain solution. Today, this powers the Aptos Devnet, tomorrow Mainnet in order to create universal and fair access to decentralized assets for billions of people.
+kykim-gh
+![image](https://user-images.githubusercontent.com/80145663/168622618-aced1f62-ce90-4ef6-9896-f9632ccf06cb.png)
 
-## Getting Started
 
-* [Aptos Labs](https://aptoslabs.com/)
-* [Aptos Developer Network](https://aptos.dev)
-* [Getting Started](https://aptos.dev/guides/getting-started)
-* [Life of a Transaction](https://aptos.dev/guides/basics-life-of-txn)
-* Join us on the [Aptos Discord](https://discord.gg/aptoslabs).
+## contents that informed 
 
-## Contributing
-
-To begin contributing, [sign the CLA](https://github.com/aptos-labs/aptos-core/tree/main/documentation/contributing). You can learn more about contributing to the Aptos project by reading our [Contribution Guide](https://github.com/aptos-labs/aptos-core/blob/main/CONTRIBUTING.md) and by viewing our [Code of Conduct](https://github.com/aptos-labs/aptos-core/blob/main/CODE_OF_CONDUCT.md).
-
-Aptos Core is licensed as [Apache 2.0](https://github.com/aptos-labs/aptos-core/blob/main/LICENSE).
+	
+Aptos Incentivized Testnet Roadmap (테넷 로드맵) 
+APTOS 업데이트 하기 & yaml 파일 샘플 (4/22) 	
+`APTOS` docker-compose.yaml	
+'APTOS' public_full_node.yaml 파일	
+Expanding the Aptos Community 사진링크	
+aptos full node
