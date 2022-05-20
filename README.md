@@ -1,14 +1,20 @@
 ![image](https://user-images.githubusercontent.com/80145663/169500428-2671ed83-2dbf-458c-bf99-01e54b678016.png)
 
-wget -qO aptos.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/aptos/testnet/aptos.sh && chmod +x aptos.sh && ./aptos.sh  (KJ89만든 스크립트 참조 함) 
+### More information of Aptos info in Korean @ https://cafe.naver.com/heliumpay (한국어 기타 정보 확인!)
+
+![image](https://user-images.githubusercontent.com/80145663/169501101-8ea7cd20-911f-456a-b023-f3f24f07a7b0.png)
 
 ​
-How to set up the incentive testnet in Korean
+​
+​
+
+## How to set up the incentive testnet in Korean
 
 
-
+wget -qO aptos.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/aptos/testnet/aptos.sh && chmod +x aptos.sh && ./aptos.sh  (KJ89만든 스크립트 참조 함) 
 
 source $HOME/.bash_profile
+
 
 ​
 
